@@ -1,0 +1,2 @@
+# TraningDiary
+Console program 
